@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+ul{
+  list-style: none;
+}
+li{
+    display: inline;
+    margin: 1%;
+}
+
+a{
+    color: black;
+    background-color: #e6e6e6;
+    padding: 1%;
+}

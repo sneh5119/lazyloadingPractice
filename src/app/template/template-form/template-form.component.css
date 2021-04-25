@@ -1,0 +1,26 @@
+
+.genderClss{
+    display: inline;
+    margin: 2%;
+}
+
+.ratingBox{
+    padding: 1%;
+    background-color: lightsteelblue;
+    margin: 5%;
+}
+
+.sliderBox{
+    width: 65%;
+}
+
+output{
+    padding: 1%;
+    width: 3%;
+    background-color: lightsteelblue;
+    margin: 1%;
+    position: relative;
+    bottom:50px;
+    right: 200px;
+    float: right;
+}
